@@ -5,4 +5,4 @@ Of course, with great power comes great responibility. That is why I will not gi
 1: Know/learn how to run python scrips and how to use both pytesseract and chat GPT in python. (I promise it is worth it though)
 
 2: Get me (yes the creator of this code) to set this up for you. How would you do that? In person. Ask me in person. If you know me, great. If not, tough luck.
-If your lucky you'll find a way to message, and if you're really lucky I'll respond.
+If your lucky you'll find a way to message me, and if you're really lucky I'll respond.
